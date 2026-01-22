@@ -1,0 +1,26 @@
+html,body{
+  background-color: rgb(63, 63, 63);
+}
+
+h1{
+  color: white;
+  background-color: rgba(30, 29, 29, 0.842);
+  padding: 50px 70px;
+  width: fit-content;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+button{
+  color: white;
+  background-color: rgba(30, 29, 29, 0.842);
+  border: 1px solid white;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+button:hover{
+  background-color: black;
+  border: 1px solid rgb(155, 62, 155);
+}

@@ -1,0 +1,25 @@
+body{
+  background:#181818;
+  color:white;
+}
+.Navbar{
+  background-color: rgb(187, 54, 5);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 15px;
+}
+
+.pages{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 5px;
+}
+
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
